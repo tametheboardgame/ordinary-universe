@@ -1,0 +1,15 @@
+# Local / temporary output
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.swp
+*.psd~
+node_modules/
+dist/
+build/
+.cache/
+.env
+.env.*
+!.env.example
+# Original art, approved exports and metadata are intentional source assets and should remain trackable.
