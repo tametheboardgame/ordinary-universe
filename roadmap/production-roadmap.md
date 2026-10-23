@@ -1,7 +1,7 @@
 # Ordinary Universe — Production Roadmap
 
 **Updated:** 23 October 2026  
-**Current status:** Style A selected; Man of Carbon design approved, binary repository upload outstanding; OU-001 storyboard is next.
+**Current status:** Style A selected; Man of Carbon design approved; 8–12-panel double-spread format adopted; OU-001 storyboard next. Approved PNG binary upload remains outstanding.
 
 ## OU-M00 — Foundation
 
@@ -19,15 +19,18 @@
 - [x] Produce and approve Martin (Man of Carbon) model sheet (23 October 2026). Image binary upload to repo remains a separate outstanding task.
 - [ ] Produce and approve Gary (Dark Night) model sheet.
 - [ ] Produce and approve seven individually recognisable Justins.
-- [ ] Approve reusable four-panel layout and lettering master.
+- [x] Adopt double-spread format (8–12 panels; 10 default)
+- [ ] Approve reusable double-spread layout and lettering master, including mobile panel export conventions.
 
 **Exit:** Style, cast proportions and template locked.
 
 ## OU-M02 — First three pilots
 
-- [ ] OU-001 storyboard / review / final art / lettered panels.
-- [ ] OU-002 storyboard / review / final art / lettered panels.
-- [ ] OU-006 storyboard / review / final art / lettered panels.
+- [x] OU-001 expanded 10-panel draft script with spread page beats and reading order
+- [ ] OU-001 double-spread storyboard / review / final art / lettered panels.
+- [x] OU-002 and OU-006 expanded into 10-panel draft scripts
+- [ ] OU-002 double-spread storyboard / review / final art / lettered panels.
+- [ ] OU-006 double-spread storyboard / review / final art / lettered panels.
 - [ ] Check each strip at mobile and desktop widths.
 - [ ] Confirm accessibility transcript and original asset rights.
 

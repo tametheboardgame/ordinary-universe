@@ -4,7 +4,7 @@
 
 A shared comic universe of people whose seemingly extraordinary superhero names are literal descriptions of entirely normal lives. No superpowers. No supernatural events. No self-aware winking at the audience. Just spectacularly serious storytelling about trivial British problems.
 
-**Status:** Creative development. **Initial format:** Short illustrated comic strips, primarily four panels. **Planned first publisher:** [DaveHub](https://davehub.co.uk/).
+**Status:** Creative development. **Initial format:** Illustrated double-page comic spreads, 8–12 panels (10 by default). **Planned first publisher:** [DaveHub](https://davehub.co.uk/).
 
 ## Start here
 
@@ -15,7 +15,7 @@ A shared comic universe of people whose seemingly extraordinary superhero names 
 - [Pilot OU-001: The Origin of Man of Carbon](comics/season-01/OU-001-the-origin-of-man-of-carbon/script.md)
 - [Pilot OU-002: The Dark Night Rises](comics/season-01/OU-002-the-dark-night-rises/script.md)
 - [Pilot OU-006: The Call to Justin](comics/season-01/OU-006-the-call-to-justin/script.md)
-- [Visual style guide](artwork/style-guide.md) and [asset specification](artwork/asset-specification.md)
+- [Visual style guide](artwork/style-guide.md), [double-spread composition guide](artwork/double-spread-layout.md) and [asset specification](artwork/asset-specification.md)
 - [DaveHub publishing contract](publishing/davehub-integration.md)
 - [Roadmap](roadmap/production-roadmap.md) and [decision log](roadmap/decision-log.md)
 

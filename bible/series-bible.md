@@ -144,7 +144,9 @@ Track mundane props and their consequences. Reward long-term readers without mak
 
 ## 8. Format and visual identity
 
-Default to four panels and a 20–45-second read. Six panels are allowed where pacing earns them. Use clean contemporary graphic-novel drawing, believable human proportions, normal clothes, dramatic camera angles and striking chiaroscuro. Avoid photo-comics, copied costumes, broad wacky caricatures and over-lettering.
+**The standard comic format is one composed double-page spread of 8–12 panels, targeting 10 panels by default.** This is an approved replacement for the original four-panel concept. The artist can vary panel shapes and sizes for dramatic pacing rather than use a fixed grid. Compose left and right pages as one coherent landscape spread, protecting the central gutter and establishing an unambiguous left-to-right, top-to-bottom reading sequence. A large establishing panel, silent reaction panels and a dry closing beat are encouraged. Use Style A cinematic graphic-novel drawing, believable people, everyday clothes, dramatic framing and chiaroscuro. Avoid photo-comics, copied costumes, broad caricatures and dense lettering.
+
+**For DaveHub**, preserve the double-spread composition as the desktop master while providing individually exportable panels in the same reading order for mobile scrolling or a guided panel reader. Original artwork must not be shrunk to illegibility on a phone. Storytelling rules, layout principles and export requirements: [Double-spread layout guide](../artwork/double-spread-layout.md).
 
 A strip needs a clear visual joke, readable phone-size dialogue, consistent character designs and an accessible transcript. Keep master art separate from web exports.
 
@@ -177,4 +179,4 @@ A strip needs a clear visual joke, readable phone-size dialogue, consistent char
 
 A strip must work for someone unfamiliar with DC; reward those who are familiar; have a clear human story and visual payoff; avoid real powers; fit phone reading; retain visual continuity; include an HTML-readable transcript; and avoid copying third-party designs.
 
-**First production milestone:** Approve the illustration style, Martin and Gary model sheets, at least three distinct Justins, and a standard four-panel lettering/layout master. Then produce OU-001, OU-002 and OU-006. These are scripts, not finished published comics.
+**First production milestone:** Approve the illustration style, Martin and Gary model sheets, at least three distinct Justins, and a reusable 8–12-panel double-spread layout/lettering master. Then produce OU-001, OU-002 and OU-006. These are scripts, not finished published comics.

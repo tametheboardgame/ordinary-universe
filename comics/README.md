@@ -8,6 +8,14 @@ Canonical strip IDs use `OU-NNN`, where `NNN` is a zero-padded number. The folde
 
 The current repository contains **scripts only**. Pilot status is `scripted`; the remaining Season One list is `idea`.
 
+## Approved standard format
+
+Each numbered comic is designed as a **single double-page spread (8–12 panels; 10 is the default)**, with a deliberate visual composition spanning facing left and right pages. Each panel is numbered in reading order and assigned `left` or `right`; no dialogue, character or essential event may disappear into the centre gutter.
+
+A typical 10-panel issue reserves panels 1–5 for the left page (setup/escalation) and panels 6–10 for the right page (epic response/reveal/anticlimax). This is a **rhythm**, not a mandatory 5×2 grid. A few large panels are preferable to ten identical boxes. Specials can use longer or multiple spreads if the artistic joke requires it; mark them explicitly as exceptions.
+
+Final art ships as **both** a composed double-spread master for desktop and numbered panel exports for sequential, accessible mobile reading. See [layout guide](../artwork/double-spread-layout.md).
+
 ## Script template
 
 See [templates/comic-script.md](../templates/comic-script.md). Every comic has title, intended cast, format, panel-by-panel descriptions, exact copy, punchline mechanism, status, continuity and accessibility notes.
@@ -21,11 +29,11 @@ See [templates/comic-script.md](../templates/comic-script.md). Every comic has t
 ## Required production artefacts
 
 1. Script
-2. Thumbnail storyboard
+2. Double-page spread layout and numbered-panel storyboard
 3. Approved character reference sheets
-4. Full-resolution clean master art and lettered master
-5. Individually optimised panel exports for mobile
-6. Cover thumbnail and accessible dialogue transcript
-7. Published metadata with URL and credits
+4. Full-resolution clean spread master and lettered spread master
+5. Individually optimised panel exports in canonical reading order for mobile
+6. Cover thumbnail and accessible panel-by-panel transcript
+7. Published metadata with URL, credits and spread layout
 
 Do not assume art is complete when a script has been written. Only approved releases should appear in DaveHub's public comic archive.

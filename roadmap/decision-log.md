@@ -10,7 +10,7 @@
 
 ## 2026-10-22 — Initial publishing medium
 
-**Accepted:** Short comic strips, normally four panels, initially intended for DaveHub.
+**Superseded on 23 October 2026:** The original short four-panel strip concept for DaveHub.
 
 ## 2026-10-22 — Repository separation
 
@@ -42,3 +42,9 @@
 **Artifact status:** Generated sheet approved in conversation, SHA-256 `5700d48cea3bed03baa8b5be8456fe7ba45bc092cb5a19cfb6d0300570ed1697`. PNG has not yet been uploaded to the GitHub repository. Binary transfer is still needed before closing issue #5.
 
 **Next:** Storyboard OU-001 using the approved character reference.
+
+## 2026-10-23 — Double-page spread format adopted
+
+**Accepted:** Standard Ordinary Universe comics are **one composed two-page spread with 8–12 panels, normally 10**, replacing the four-panel strip concept. Dramatic panel scale, silence and atmospheric pacing are integral to the joke. Preserve the left/right spread design for desktop and provide independent ordered panel exports for DaveHub mobile reading.
+
+**Implementation:** Series bible, production guide, artwork specifications, publishing contract, template and three original pilot scripts updated. The current expanded pilot scripts are drafts pending storyboard and creative approval; no finished comics have been illustrated or published. Justin Snyder editions may deliberately exceed the standard count as labelled exceptions.

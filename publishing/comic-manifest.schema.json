@@ -26,7 +26,8 @@
           "summary",
           "characters",
           "cover",
-          "panels"
+          "panels",
+          "layout"
         ],
         "properties": {
           "id": {
@@ -71,7 +72,7 @@
           },
           "panels": {
             "type": "array",
-            "minItems": 1,
+            "minItems": 8,
             "items": {
               "type": "object",
               "additionalProperties": false,
@@ -92,7 +93,35 @@
                 "transcript": {
                   "type": "string",
                   "minLength": 1
+                },
+                "page": {
+                  "type": "string",
+                  "enum": [
+                    "left",
+                    "right"
+                  ]
                 }
+              }
+            }
+          },
+          "layout": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "type",
+              "spread_src"
+            ],
+            "properties": {
+              "type": {
+                "type": "string",
+                "enum": [
+                  "double-spread",
+                  "prestige-recut"
+                ]
+              },
+              "spread_src": {
+                "type": "string",
+                "minLength": 1
               }
             }
           }

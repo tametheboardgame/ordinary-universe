@@ -1,7 +1,7 @@
 # Justin Snyder's Justin League
 
 **Status:** Special-event concept approved, not yet scripted or illustrated.  
-**Format:** The overlong prestige / director's cut of an existing Justin League story.  
+**Format:** An ostentatiously overlong prestige / director's cut of an existing 8–12-panel double spread. May add an extra spread or exceed normal panel count as an explicitly labelled special.  
 **Core gag:** *It's almost exactly the same. It just takes longer.*
 
 ## Premise

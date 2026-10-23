@@ -12,6 +12,7 @@ This ledger distinguishes **approved premise** from **working details** so early
 - The Justin League contains **only** ordinary men called Justin.
 - DaveHub is the intended comic distribution destination; this repo owns source canon and creative assets.
 - The Ordinary Universe's **default visual style is A: Cinematic Graphic-Novel** (approved direction; implementation details pending).
+- **Normal comic format: one double-page spread with 8–12 panels (10 as the default target)**; desktop composition and mobile sequential panel export are both required.
 - **Justin Snyder's Justin League** exists as an approved creative concept: a longer, darker alternative cut of the same ordinary events, with rearranged panels and the same meaningful outcome. Visual exception may blend hyper-dramatic A with textured C.
 
 ## Working canon, open to refinement
@@ -27,7 +28,7 @@ This ledger distinguishes **approved premise** from **working details** so early
 - Precise implementation of approved Style A: line weight, colour grading, lettering/font and panel layout.
 - Final civilian appearance of Martin, Gary, Wendy and all seven Justins.
 - Whether future title/character names that closely resemble existing franchises need to change for public marketing.
-- Whether panels are delivered as separate responsive image assets, a composite, or both.
+- Exact physical master dimensions and DaveHub display behaviour; at minimum provide a double-spread master plus ordered independent mobile-panel exports.
 
 ## Recurring continuity seeds
 

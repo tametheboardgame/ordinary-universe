@@ -42,7 +42,7 @@ The deliberate exception is **Justin Snyder's Justin League**, a longer, darker,
 
 ## Lettering and panels
 
-Use a standard comic lettering family with clear rights for web publication. Normal-case dialogue; occasional uppercase epic caption, only for editorial voice. Leave generous speech-bubble safe areas during composition. A common four-panel grid and title system should be established and tested before any pilot is marked 'approved'.
+Use a standard comic lettering family with clear rights for web publication. Normal-case dialogue; occasional uppercase epic caption, only for editorial voice. Leave generous speech-bubble safe areas during composition. **Default is one 8–12-panel, two-page landscape spread (10 target)** with flexible cinematic panel sizes, central-gutter safety and numbered mobile reading order. Approve a spread-and-lettering master before any pilot is marked 'approved'. See [double-spread layout guide](double-spread-layout.md).
 
 ## Visual approval checkpoints
 
