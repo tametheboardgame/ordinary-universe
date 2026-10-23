@@ -5,14 +5,14 @@
 **Location:** Ordinary British GP surgery, on an unremarkable weekday
 **Format:** One double-page spread, 10 numbered panels (left 1–5; right 6–10)
 **Style:** A — Cinematic Graphic-Novel
-**Tone:** A universe-shaking origin treated with mythic solemnity; a doctor with an entirely normal afternoon
+**Tone:** Anxious wait for routine test results treated as a universe-shaking origin; doctor delivers an utterly normal outcome
 
 ## LEFT PAGE — The mystery
 
 ### Panel 1 — The place where destinies begin
 **Shape:** Wide establishing panel at top left.
 **Art:** Wet suburban street, GP surgery sign, grey weather caught by improbably dramatic light. Martin heads towards the entrance wearing the approved red-and-charcoal checked shirt, grey tee and ordinary jacket.
-**Caption:** "Some truths are too great to remain hidden."
+**Caption:** "After the tests, all he could do was wait for answers."
 
 ### Panel 2 — Waiting for the unknown
 **Shape:** Medium panel.
@@ -21,25 +21,25 @@
 
 ### Panel 3 — The moment
 **Shape:** Tight close-up.
-**Art:** Martin's hand grips his appointment slip; the number of the consultation room is an ordinary handwritten note. His thumb has creased the paper.
-**Caption:** "He had waited his whole life for answers."
+**Art:** Martin's hand grips the appointment slip: 'Test Results, Martin Clarke'. It is creased from nervous handling.
+**Caption:** "The results were finally in."
 
 ### Panel 4 — The consultation
 **Shape:** Wide two-person shot.
 **Art:** Flat, credible GP room with an anatomical poster and computer. Doctor glances up; Martin sits opposite, painfully serious.
-**GP:** "What can I help you with, Martin?"
+**GP:** "Your test results are back, Martin."
 
 ### Panel 5 — The question
 **Shape:** Low-angle close-up, strong shadow.
 **Art:** Martin leans forward, dark glasses catching the fluorescent light as though on the brink of a revelation.
-**MARTIN:** "Doctor... what exactly am I made of?"
+**MARTIN:** "And? What do they show?"
 
 ## RIGHT PAGE — The extraordinary truth
 
 ### Panel 6 — A simple answer
 **Shape:** Medium panel.
 **Art:** The GP answers with the same untroubled expression used to explain a routine biological fact.
-**GP:** "Well, like all humans, you're carbon-based."
+**GP:** "Well, they confirm you're carbon-based."
 
 ### Panel 7 — Impossible
 **Shape:** Extreme close-up.
@@ -49,13 +49,13 @@
 ### Panel 8 — A hero is born
 **Shape:** Largest dramatic panel of the spread, entirely on the right page and away from the gutter.
 **Art:** Martin rises half out of his chair. Through the ordinary surgery window, a shaft of sunlight makes his mundane silhouette look mythic. **No cape, no emblem, no transformation.**
-**MARTIN:** "Then I know what I must become."
-**MARTIN (smaller):** "Man of Carbon."
+**MARTIN:** "Carbon. The element of life itself!"
+**MARTIN (smaller):** "I know what I must become... Man of Carbon."
 
 ### Panel 9 — The correction
 **Shape:** Plain medium panel, flatter lighting.
 **Art:** The doctor has already returned attention to the computer.
-**GP:** "Yes, Martin. So is everyone else."
+**GP:** "Martin, everyone is carbon-based. Your test results are normal."
 
 ### Panel 10 — After the revelation
 **Shape:** Wide, small-scale anticlimactic closing panel along the lower right page.
@@ -74,13 +74,13 @@
 
 ## Accessibility transcript
 
-1. Outside a GP surgery on a wet ordinary day, Martin approaches as a grand caption promises hidden truths.
+1. Martin approaches the GP surgery on a wet day to receive his test results.
 2. He waits nervously in a routine waiting room while others behave normally.
-3. He grips his appointment slip as another caption says he has waited for answers.
-4. In the consultation room, the GP asks what she can do for him.
-5. Martin asks what exactly he is made of.
-6. The doctor explains that, like all humans, Martin is carbon-based.
+3. He grips an appointment slip labelled 'Test Results, Martin Clarke'.
+4. In the consultation room, the GP announces his test results are back.
+5. Martin anxiously asks what the tests show.
+6. The GP says his test results confirm he is carbon-based, without suggesting this is unusual.
 7. Martin repeats the word "Carbon" as though it changes everything.
-8. In a dramatic shaft of sunlight, he declares he must become "Man of Carbon" without changing his ordinary clothes.
-9. The GP says everyone else is carbon-based too.
+8. Martin interprets carbon as the element of life itself and heroically declares himself "Man of Carbon" without changing his ordinary clothes.
+9. The GP explicitly explains everyone is carbon-based and his test results are normal.
 10. Martin sits back down and politely confirms he has no further questions.
