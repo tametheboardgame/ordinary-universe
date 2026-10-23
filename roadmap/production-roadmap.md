@@ -1,7 +1,7 @@
 # Ordinary Universe — Production Roadmap
 
-**Updated:** 22 October 2026  
-**Current status:** Initial creative repository scaffolded; pilot scripts prepared.
+**Updated:** 23 October 2026  
+**Current status:** Style A selected; Man of Carbon character development next.
 
 ## OU-M00 — Foundation
 
@@ -13,8 +13,9 @@
 
 ## OU-M01 — Design approval (NEXT)
 
-- [ ] Produce 2–3 visual style explorations from one common test scene.
-- [ ] Choose and lock original comic visual identity.
+- [x] Produce 3 visual style explorations from one common Man of Carbon scene.
+- [x] Choose overall comic visual identity: Style A, Cinematic Graphic-Novel.
+- [ ] Lock detailed design tokens (linework, palette, typography, layout) for Style A.
 - [ ] Produce and approve Martin (Man of Carbon) model sheet.
 - [ ] Produce and approve Gary (Dark Night) model sheet.
 - [ ] Produce and approve seven individually recognisable Justins.
@@ -41,6 +42,15 @@
 - [ ] Publish pilot batch by an explicit approved release.
 
 **Exit:** Three comics live and readable on DaveHub.
+
+## OU-SPECIAL01 — Justin Snyder's Justin League (future special)
+
+- [x] Approve prestige recut premise and alternate Style A/C direction.
+- [ ] Develop a direct side-by-side comparison with the baseline OU-006 comic.
+- [ ] Draft extended/reordered panel script with *no meaningful change* to the outcome.
+- [ ] Produce only after the original Justin League is visually established.
+
+**Exit:** The original and extended edition can be compared, and the longer one earns its absurd running time.
 
 ## OU-M04 — Season One
 

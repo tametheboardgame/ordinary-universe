@@ -11,6 +11,8 @@ This ledger distinguishes **approved premise** from **working details** so early
 - British contemporary settings and subtle, character-driven humour.
 - The Justin League contains **only** ordinary men called Justin.
 - DaveHub is the intended comic distribution destination; this repo owns source canon and creative assets.
+- The Ordinary Universe's **default visual style is A: Cinematic Graphic-Novel** (approved direction; implementation details pending).
+- **Justin Snyder's Justin League** exists as an approved creative concept: a longer, darker alternative cut of the same ordinary events, with rearranged panels and the same meaningful outcome. Visual exception may blend hyper-dramatic A with textured C.
 
 ## Working canon, open to refinement
 
@@ -22,7 +24,7 @@ This ledger distinguishes **approved premise** from **working details** so early
 
 ## To decide before art
 
-- Original illustration design, line weight, colour grading and bubble font.
+- Precise implementation of approved Style A: line weight, colour grading, lettering/font and panel layout.
 - Final civilian appearance of Martin, Gary, Wendy and all seven Justins.
 - Whether future title/character names that closely resemble existing franchises need to change for public marketing.
 - Whether panels are delivered as separate responsive image assets, a composite, or both.

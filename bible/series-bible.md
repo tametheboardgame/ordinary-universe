@@ -150,6 +150,14 @@ A strip needs a clear visual joke, readable phone-size dialogue, consistent char
 
 **DaveHub:** A dedicated entertainment area containing latest strip, start-from-001 navigation, archive, permalinks and later optional character dossiers. See the publishing specification.
 
+### Approved visual direction (23 October 2026)
+
+**Style A — Cinematic Graphic-Novel** is the general house style. In the reviewed three-way sample, A was the dramatic, atmospheric and realistically illustrated option. The look is approved at the level of overall direction only: individual character faces, precise lettering, and the final colour spec are pending.
+
+### The deliberately different edition
+
+**Justin Snyder's Justin League** is a special, overblown 'director's cut' of the original **The Justin League** narrative. It contains extra gravitas, extra panels, selected changed panel order and essentially the same ending. For this *exception*, use hyper-stylised A with optional textured Style C influences. Full concept: [Justin Snyder's Justin League](justin-snyders-justin-league.md).
+
 ## 9. Season One: Assembling, More or Less
 
 1. **OU-001 — The Origin of Man of Carbon:** A medical revelation proves universal.
