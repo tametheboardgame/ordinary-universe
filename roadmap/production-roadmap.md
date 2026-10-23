@@ -1,7 +1,7 @@
 # Ordinary Universe — Production Roadmap
 
 **Updated:** 23 October 2026  
-**Current status:** Style A selected; Man of Carbon character development next.
+**Current status:** Style A selected; Man of Carbon design approved, binary repository upload outstanding; OU-001 storyboard is next.
 
 ## OU-M00 — Foundation
 
@@ -16,7 +16,7 @@
 - [x] Produce 3 visual style explorations from one common Man of Carbon scene.
 - [x] Choose overall comic visual identity: Style A, Cinematic Graphic-Novel.
 - [ ] Lock detailed design tokens (linework, palette, typography, layout) for Style A.
-- [ ] Produce and approve Martin (Man of Carbon) model sheet.
+- [x] Produce and approve Martin (Man of Carbon) model sheet (23 October 2026). Image binary upload to repo remains a separate outstanding task.
 - [ ] Produce and approve Gary (Dark Night) model sheet.
 - [ ] Produce and approve seven individually recognisable Justins.
 - [ ] Approve reusable four-panel layout and lettering master.

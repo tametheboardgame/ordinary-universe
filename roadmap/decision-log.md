@@ -34,3 +34,11 @@
 - Final civilian names for provisional characters.
 - Comic-reader design and release asset hosting.
 - Public marketing/name clearance for references close to existing superhero brands.
+
+## 2026-10-23 — Man of Carbon character appearance approved
+
+**Accepted:** Martin Clarke's first canonical visual design, in the locked cinematic Style A house style. The approved sheet presents front/three-quarter/side/back turnaround, four expressions, ordinary props and a dramatic lighting portrait. Signature look: tousled brown hair, stubble, rectangular dark glasses, red-and-charcoal checked shirt over grey tee, jeans and trainers. No cape or powers.
+
+**Artifact status:** Generated sheet approved in conversation, SHA-256 `5700d48cea3bed03baa8b5be8456fe7ba45bc092cb5a19cfb6d0300570ed1697`. PNG has not yet been uploaded to the GitHub repository. Binary transfer is still needed before closing issue #5.
+
+**Next:** Storyboard OU-001 using the approved character reference.
