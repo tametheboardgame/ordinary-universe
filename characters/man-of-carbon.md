@@ -3,7 +3,7 @@
 **Working civilian name:** Martin Clarke  
 **Literal basis:** Carbon-based human life.  
 **Tagline:** *He is one of us. Literally.*  
-**Status:** **Appearance and model sheet approved by creator (23 October 2026).** Martin Clarke remains the working civilian name pending separate confirmation. High-resolution reference artwork generated and approved in conversation; repository binary upload still pending.
+**Status:** **Appearance and model sheet approved by creator (23 October 2026).** Martin Clarke remains the working civilian name pending separate confirmation. High-resolution reference artwork generated, approved and committed to GitHub.
 
 ## Character essence
 
@@ -36,7 +36,7 @@ The Dark Night is his sometimes ally and sometimes rival in utterly insignifican
 
 The creator approved the generated master character sheet in the October 2026 conversation. It is **1448 × 1086 PNG** and its SHA-256 is `5700d48cea3bed03baa8b5be8456fe7ba45bc092cb5a19cfb6d0300570ed1697`.
 
-**Asset tracking:** The original master was generated as `man_of_carbon_martin_clarke_character_sheet.png`. A canonical repository copy is reserved for `artwork/characters/man-of-carbon/model-sheet-v01.png` but **the image binary has not yet been uploaded into GitHub**. Do not describe this file path as existing until an upload is confirmed. Keep using the approved original as the reference for OU-001.
+**Asset tracking:** The original master was generated as `man_of_carbon_martin_clarke_character_sheet.png`. The canonical reference is committed as [`artwork/characters/man-of-carbon/model-sheet-v01.png`](../artwork/characters/man-of-carbon/model-sheet-v01.png). Git blob SHA `3bb95c0fe5ee75ac9201833003ff6f3937858199` matches the original file; use this for OU-001 and future appearances.
 
 ## Remaining production references
 

@@ -2,7 +2,7 @@
 
 | ID | Title | Status |
 | --- | --- | --- |
-| OU-001 | The Origin of Man of Carbon | coloured spread approved; GitHub PNG upload pending; Issue #1 pp. 1–2 |
+| OU-001 | The Origin of Man of Carbon | coloured spread and master PNG committed; mobile exports pending; Issue #1 pp. 1–2 |
 | OU-002 | The Dark Night Rises | scripted |
 | OU-003 | She Has Questions | idea |
 | OU-004 | Access Denied | idea |

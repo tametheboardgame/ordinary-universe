@@ -2,7 +2,8 @@
 
 **Creative approval:** 23 October 2026  
 **Approved asset:** `man_of_carbon_martin_clarke_character_sheet.png` (generated within the project conversation)  
-**Proposed repository destination:** `model-sheet-v01.png`  
+**Verified repository asset:** [`model-sheet-v01.png`](model-sheet-v01.png)  
+**Git blob SHA:** `3bb95c0fe5ee75ac9201833003ff6f3937858199`  
 **PNG dimensions:** 1448 × 1086 (RGB)  
 **SHA-256:** `5700d48cea3bed03baa8b5be8456fe7ba45bc092cb5a19cfb6d0300570ed1697`  
 **Art style:** Cinematic Graphic-Novel, Style A  
@@ -10,7 +11,7 @@
 
 ## Status
 
-The creator has approved the artwork. **This metadata file does not contain the image itself**. GitHub binary upload is pending, and `model-sheet-v01.png` must not be considered present until verified.
+The creator-approved original artwork is now committed in GitHub as `model-sheet-v01.png`. Its Git blob SHA matches the checksum computed from the original local PNG.
 
 ## Canonical appearance
 
@@ -18,4 +19,4 @@ Messy brown hair, dark glasses, natural stubble, medium build, red/charcoal over
 
 ## Completion step
 
-Upload the exact approved PNG to `artwork/characters/man-of-carbon/model-sheet-v01.png`, verify its SHA-256, then mark GitHub issue #5 complete. Do not regenerate a lookalike and substitute it silently.
+**Completed:** The exact approved model-sheet PNG is committed and verified. Future artwork should reference this file rather than regenerating an alternative look.

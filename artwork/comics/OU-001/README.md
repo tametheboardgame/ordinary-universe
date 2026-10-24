@@ -7,7 +7,7 @@
 **Internal ID:** OU-001; omit this from artwork headings  
 **Approval:** Explicitly approved by creator following replacement of the earlier draft with the coloured, title-corrected 10-panel spread  
 **House style:** A, cinematic graphic-novel  
-**Status:** Art approved; binary transfer into GitHub still outstanding; unpublished
+**Status:** Approved master PNG committed and Git blob checksum verified; mobile web exports and DaveHub publication outstanding
 
 ## Exact source artwork
 
@@ -16,19 +16,20 @@
 - Format: PNG
 - Size: **2,515,390 bytes**
 - SHA-256: `1157cded3238de6605297153d740881d09c8610a5e115f90b6e3970bb67c077d`
-- Planned repository master path: `artwork/comics/OU-001/spread-master-v01.png`
+- Verified repository master: [`spread-master-v01.png`](spread-master-v01.png)
+- Git blob SHA: `8e766529ed628cbfb41226ee8f9e4e16836b6e2f` (matches original PNG)
 - Source: Generated in the project conversation and approved by the creator, with final correction removing the `OU-001` prefix.
 - Original artistic credit/usage: project-generated image; verify publishing rights/third-party elements as part of release QA.
 
-**The planned PNG path does not yet exist in the GitHub repository.** This record is not an artwork file. Upload the exact SHA-matching image and separately export mobile panels. Do not label the comic published until DaveHub has the approved art and a working reader.
+**The exact approved master PNG is now stored in the GitHub repository.** Separate mobile panels and a DaveHub reader remain to be built. Do not label the comic published until the issue is actually live.
 
 ## Completion
 
 - [x] Final double-spread artwork approved.
 - [x] Title is reader-facing, without internal OU ID.
 - [x] Source file metadata and hash recorded.
-- [ ] Approved PNG uploaded and verified by checksum.
-- [ ] Approved model sheet binary uploaded and verified.
+- [x] Approved PNG uploaded and verified by Git blob SHA and source SHA-256.
+- [x] Approved model sheet binary uploaded and verified by Git blob SHA and source SHA-256.
 - [ ] Web-optimised full-spread export created.
 - [ ] Independent, lettered panel exports and transcripts validated.
 - [ ] DaveHub reader visually and functionally reviewed.

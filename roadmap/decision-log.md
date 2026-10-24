@@ -1,3 +1,11 @@
+## 2026-10-24 — Approved Man of Carbon binary assets committed
+
+**Completed:** Exact PNG originals of the approved *The Origin of Man of Carbon* coloured spread and the Martin Clarke character model sheet uploaded into GitHub. Git blob SHA values match the original assets:
+- Spread `artwork/comics/OU-001/spread-master-v01.png`, Git SHA `8e766529ed628cbfb41226ee8f9e4e16836b6e2f`, original SHA-256 `1157cded3238de6605297153d740881d09c8610a5e115f90b6e3970bb67c077d`.
+- Model sheet `artwork/characters/man-of-carbon/model-sheet-v01.png`, Git SHA `3bb95c0fe5ee75ac9201833003ff6f3937858199`, original SHA-256 `5700d48cea3bed03baa8b5be8456fe7ba45bc092cb5a19cfb6d0300570ed1697`.
+
+**Still outstanding:** Mobile panel exports, DaveHub integration and issue publication. Asset approval is not publication.
+
 # Creative and technical decision log
 
 ## 2026-10-24 — The Ordinary Verse anthology and first approved comic

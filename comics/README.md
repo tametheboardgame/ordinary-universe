@@ -8,7 +8,7 @@ Canonical strip IDs use `OU-NNN`, where `NNN` is a zero-padded number. The folde
 
 **Publication model:** Stories belong to numbered issues of **The Ordinary Verse**, the anthology inside The Ordinary Universe. `OU-NNN` is a permanent internal story ID, not a reader-facing comic-book issue number. Page numbering starts from 1 within each issue; each story normally spans two pages.
 
-OU-001 has a creator-approved full-colour spread (Issue #1, pages 1–2). Its **artwork image upload is still pending**. OU-002 and OU-006 remain scripted; other Season One concepts remain ideas. Approved art is not the same as a published web comic.
+OU-001 has a creator-approved full-colour spread (Issue #1, pages 1–2). Its **approved artwork master is committed and hash-verified**. Responsive mobile panel exports are still pending. OU-002 and OU-006 remain scripted; other Season One concepts remain ideas. Approved art is not the same as a published web comic.
 
 ## Approved standard format
 
