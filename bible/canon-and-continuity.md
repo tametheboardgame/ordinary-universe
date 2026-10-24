@@ -15,6 +15,9 @@ This ledger distinguishes **approved premise** from **working details** so early
 - **Normal comic format: one double-page spread with 8–12 panels (10 as the default target)**; desktop composition and mobile sequential panel export are both required.
 - **Justin Snyder's Justin League** exists as an approved creative concept: a longer, darker alternative cut of the same ordinary events, with rearranged panels and the same meaningful outcome. Visual exception may blend hyper-dramatic A with textured C.
 
+- **The Ordinary Verse** is the anthology title within The Ordinary Universe, comprising numbered comic-book issues and two-page stories.
+- The first story in Issue #1 is **The Origin of Man of Carbon**, pages 1–2; its final colour spread and removal of the internal `OU-001` title prefix are creatively approved. Repository image upload remains pending.
+
 ## Working canon, open to refinement
 
 - Civilian names other than Gary Knight and the general Justin naming arrangement.

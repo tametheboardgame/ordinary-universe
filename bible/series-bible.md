@@ -1,6 +1,6 @@
 # The Ordinary Universe — Series Bible v0.1
 
-**Format:** Short digital comic strips, sometimes multi-part.  
+**Format:** *The Ordinary Verse*, a web-first comic-book anthology containing multiple two-page stories per numbered issue.  
 **First home:** DaveHub.  
 **Strapline:** *Extraordinary stories. Entirely ordinary people.*  
 **Status:** Working creative canon; all designs and scripts still subject to approval.
@@ -150,7 +150,9 @@ Track mundane props and their consequences. Reward long-term readers without mak
 
 A strip needs a clear visual joke, readable phone-size dialogue, consistent character designs and an accessible transcript. Keep master art separate from web exports.
 
-**DaveHub:** A dedicated entertainment area containing latest strip, start-from-001 navigation, archive, permalinks and later optional character dossiers. See the publishing specification.
+**Publishing identity:** **The Ordinary Universe** names the shared fictional universe; **The Ordinary Verse** names the anthology comic. A numbered issue contains several 2-page stories in a fixed reading order. For example, Issue #1 opens with *The Origin of Man of Carbon* on pages 1–2. The issue is the main reading unit, not a collection of unrelated web posts.
+
+**DaveHub:** A dedicated *The Ordinary Verse* web-comic section with cover, issue contents, start/continue reading, archive and story navigation. Desktop preserves the authored double spreads; mobile reads individually exported panels in order. See the publishing specification.
 
 ### Approved visual direction (23 October 2026)
 

@@ -4,10 +4,17 @@
 
 A shared comic universe of people whose seemingly extraordinary superhero names are literal descriptions of entirely normal lives. No superpowers. No supernatural events. No self-aware winking at the audience. Just spectacularly serious storytelling about trivial British problems.
 
-**Status:** Creative development. **Initial format:** Illustrated double-page comic spreads, 8–12 panels (10 by default). **Planned first publisher:** [DaveHub](https://davehub.co.uk/).
+**Status:** Anthology in production. **Format:** Illustrated double-page spreads, 8–12 panels (10 by default). **Planned publisher:** [DaveHub](https://davehub.co.uk/).
+
+## What is The Ordinary Verse?
+
+**The Ordinary Universe** is the fictional setting and creative IP. **The Ordinary Verse** is the actual ongoing anthology comic book set in that world. Its numbered issues contain multiple short stories; each story is normally one two-page spread. DaveHub will present the anthology as a web comic.
+
+[The Ordinary Verse, Issue #1](issues/issue-001/README.md) begins with **The Origin of Man of Carbon**, pages 1–2. The full-colour spread was approved by the creator; its PNG is recorded in the [artwork registry](artwork/comics/OU-001/README.md), but the binary upload to GitHub is still outstanding.
 
 ## Start here
 
+- [The Ordinary Verse #1](issues/issue-001/README.md) — anthology contents, page order and production status.
 - [Series Bible](bible/series-bible.md) — premise, rules, characters, villains, settings and season-one slate.
 - [Canon and continuity](bible/canon-and-continuity.md) — what is fixed, provisional and still undecided.
 - [Character directory](characters/README.md) — recurring cast, with individual development sheets.

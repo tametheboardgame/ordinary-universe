@@ -1,5 +1,13 @@
 # Creative and technical decision log
 
+## 2026-10-24 — The Ordinary Verse anthology and first approved comic
+
+**Accepted:** The Ordinary Universe is the shared fictional setting. **The Ordinary Verse** is the named anthology comic: numbered issues, each containing multiple approximately two-page, 8–12-panel stories. The comic will be read on DaveHub as an issue-centric web comic.
+
+**Accepted:** The finished coloured spread for **The Origin of Man of Carbon**, with no `OU-001` identifier displayed in the title, is approved as **Issue #1, pages 1–2**. `OU-001` remains the internal stable production ID. The image exists as a local PNG; its hash/dimensions are registered under `artwork/comics/OU-001/README.md`. The binary is not yet uploaded into GitHub and the story is not yet live on DaveHub.
+
+**Initial Issue #1 plan:** pages 3–4 *The Dark Night Rises*; pages 5–6 *The Call to Justin*. The full issue length and cover are not yet approved.
+
 ## 2026-10-22 — Core premise
 
 **Accepted:** A parody superhero universe of completely ordinary people, with epic, completely earnest cinematic treatment. No actual powers or fantastical events.

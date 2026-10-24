@@ -9,12 +9,21 @@
 
 This separation allows strips to be authored without repeatedly editing site code.
 
+## Anthology and issue model
+
+**The Ordinary Universe** is the shared world; **The Ordinary Verse** is the reader-facing comic anthology. Organise by a numbered issue with a cover, table of contents, ordered two-page stories and one continuous reading experience. Story production IDs like `OU-001` should remain internal, not appear in story title graphics.
+
+**Issue #1 (initial slate):** pages 1–2 *The Origin of Man of Carbon* (approved coloured spread, binary upload pending); pages 3–4 *The Dark Night Rises* (script); pages 5–6 *The Call to Justin* (script). An issue is only marked published when its approved content and reader are actually available on DaveHub.
+
 ## Suggested URLs
 
-- `/ordinary-universe/` — introduction, latest strip, start-from-001 button.
-- `/ordinary-universe/comics/` — archive, reading order.
-- `/ordinary-universe/comics/001-the-origin-of-man-of-carbon/` — immutable comic permalink.
-- `/ordinary-universe/characters/<slug>/` — optional later dossiers.
+- `/ordinary-verse/` — anthology landing page, latest issue and 'Start Reading'.
+- `/ordinary-verse/issues/1/` — cover and Issue #1 reader/table of contents.
+- `/ordinary-verse/issues/1/the-origin-of-man-of-carbon/` — optional deep link into one story while retaining in-issue navigation.
+- `/ordinary-verse/archive/` — numbered issue archive.
+- `/ordinary-universe/characters/<slug>/` — optional world/character dossiers.
+
+These are proposed route shapes; they are not live URLs. Preserve issue and story IDs in metadata so routes can be changed without breaking reading order.
 
 These are proposed URLs, **not live pages**.
 

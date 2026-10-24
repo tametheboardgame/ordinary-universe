@@ -1,0 +1,39 @@
+{
+  "title": "The Ordinary Verse",
+  "issue": 1,
+  "status": "in-production",
+  "publicationDate": null,
+  "cover": null,
+  "stories": [
+    {
+      "id": "OU-001",
+      "title": "The Origin of Man of Carbon",
+      "pageStart": 1,
+      "pageEnd": 2,
+      "panelCount": 10,
+      "artApproval": "approved",
+      "assetStatus": "pending-repository-upload",
+      "script": "../../comics/season-01/OU-001-the-origin-of-man-of-carbon/script.md"
+    },
+    {
+      "id": "OU-002",
+      "title": "The Dark Night Rises",
+      "pageStart": 3,
+      "pageEnd": 4,
+      "panelCount": 10,
+      "artApproval": "not-approved",
+      "assetStatus": "script-only",
+      "script": "../../comics/season-01/OU-002-the-dark-night-rises/script.md"
+    },
+    {
+      "id": "OU-006",
+      "title": "The Call to Justin",
+      "pageStart": 5,
+      "pageEnd": 6,
+      "panelCount": 10,
+      "artApproval": "not-approved",
+      "assetStatus": "script-only",
+      "script": "../../comics/season-01/OU-006-the-call-to-justin/script.md"
+    }
+  ]
+}

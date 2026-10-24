@@ -1,7 +1,7 @@
 # Ordinary Universe — Production Roadmap
 
-**Updated:** 23 October 2026  
-**Current status:** Style A selected; Man of Carbon design approved; 8–12-panel double-spread format adopted; OU-001 storyboard next. Approved PNG binary upload remains outstanding.
+**Updated:** 24 October 2026  
+**Current status:** *The Ordinary Verse* Issue #1 structured; OU-001 final coloured spread visually approved as pages 1–2; PNG upload to GitHub and DaveHub integration remain outstanding.
 
 ## OU-M00 — Foundation
 
@@ -27,7 +27,9 @@
 ## OU-M02 — First three pilots
 
 - [x] OU-001 expanded 10-panel draft script with spread page beats and reading order
-- [ ] OU-001 double-spread storyboard / review / final art / lettered panels.
+- [x] OU-001 double-spread storyboard, creative review and coloured lettered spread approval.
+- [ ] Upload and verify approved OU-001 artwork PNG binary in GitHub.
+- [ ] Export approved OU-001 independent mobile panels and transcript.
 - [x] OU-002 and OU-006 expanded into 10-panel draft scripts
 - [ ] OU-002 double-spread storyboard / review / final art / lettered panels.
 - [ ] OU-006 double-spread storyboard / review / final art / lettered panels.
@@ -35,6 +37,14 @@
 - [ ] Confirm accessibility transcript and original asset rights.
 
 **Exit:** Three approved, publishable strips, not merely scripts.
+
+## OU-VERSE01 — Issue #1 assembly
+
+- [x] Establish The Ordinary Verse as the anthology title and publication structure.
+- [x] Assign pages 1–2 to OU-001, The Origin of Man of Carbon.
+- [ ] Finalise Issue #1 contents, cover, branding and total pages.
+- [ ] Finish pages 3–4 (OU-002) and pages 5–6 (OU-006).
+- [ ] Assemble and quality-check ordered issue publication assets.
 
 ## OU-M03 — DaveHub integration
 

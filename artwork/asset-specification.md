@@ -2,6 +2,10 @@
 
 Use source control as the master for production files and reviewed exports, but be conscious of GitHub's large-file limits. Use Git LFS for large layered originals if needed, and do not invent empty final-art placeholders.
 
+## Approved colour spread registry
+
+The first approved 10-panel coloured spread is **The Origin of Man of Carbon**, which opens *The Ordinary Verse* Issue #1 on pages 1–2. The precise final-art file is recorded under [OU-001 artwork](comics/OU-001/README.md). **Approval is confirmed, but the binary is not present in the repository yet.** Do not silently substitute regenerated or altered images.
+
 ## Naming
 
 - Character references: `artwork/characters/<character-slug>/model-sheet-v01.png`

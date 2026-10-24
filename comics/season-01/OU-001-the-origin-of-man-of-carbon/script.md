@@ -1,8 +1,10 @@
 # OU-001 — The Origin of Man of Carbon
 
-**Status:** scripted / unillustrated / awaiting storyboard approval
+**Status:** coloured, lettered artwork approved by creator; GitHub PNG upload outstanding; not yet published
 **Cast:** Martin Clarke (Man of Carbon), GP; waiting-room background patients
 **Location:** Ordinary British GP surgery, on an unremarkable weekday
+**Publication:** The Ordinary Verse, Issue #1, pages 1–2  
+**Internal story ID:** OU-001 (never printed before the title)  
 **Format:** One double-page spread, 10 numbered panels (left 1–5; right 6–10)
 **Style:** A — Cinematic Graphic-Novel
 **Tone:** Anxious wait for routine test results treated as a universe-shaking origin; doctor delivers an utterly normal outcome
@@ -70,7 +72,8 @@
 - Protect centre gutter; keep all dialogue, faces and punchlines outside the seam.
 - Use the **approved Martin model-sheet design**: messy brown hair, dark rectangular glasses, stubble, checked overshirt, grey T-shirt, dark jeans, ordinary trainers.
 - The GP is calm and helpful, never an antagonist. The world remains normal.
-- Status is **script draft**, not approved storyboard, art or publication.
+- The final colour spread was visually approved, after revision to start with test results, correct panel 8–9 dialogue and remove `OU-001` from the displayed title. The artwork is tracked in [artwork registry](../../../artwork/comics/OU-001/README.md).
+- Art approval does **not** mean asset delivery is complete: exact approved PNG still needs to be uploaded to GitHub, panel exports created, and DaveHub publishing approved.
 
 ## Accessibility transcript
 
